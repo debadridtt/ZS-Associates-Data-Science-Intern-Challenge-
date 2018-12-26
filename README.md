@@ -6,7 +6,8 @@ Imagine you live in 2050. Internet data is now at the peak of it's revolution wi
 
 The evaluation metric was f1-score.
 
-Due to some guideline restrictions I couldn't upload the code. But you can view the document where I have mentioned the approach that I have taken to solve the problem.
+Due to some guideline restrictions I couldn't upload the code. But you can view the document where I have mentioned the approach that I have taken to solve the problem:
+https://goo.gl/wdb9pn
 
 A screenshot of the final leaderboard:
 
